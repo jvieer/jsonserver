@@ -1,0 +1,34 @@
+{
+    "viajes":[
+        {
+          "id": 1,
+          "nombre": "Yulio",
+          "auto": "ñuñuki",
+          "comuna": "puente alto",
+          "disponible": "si"  
+        },
+        {
+          "id": 2,
+          "nombre": "Jairo",
+          "auto": "Corvette",
+          "comuna": "Cajon del maipos",
+          "disponible": "no"  
+        },
+        {
+          "id": 3,
+          "nombre": "Matias",
+          "auto": "Nissan 180SX",
+          "comuna": "Lo barnechea",
+          "disponible": "si"  
+        },
+        {
+          "id": 4,
+          "nombre": "Mario",
+          "auto": "Kia Soul",
+          "comuna": "La pintana",
+          "disponible": "no"  
+        }
+       
+    ]
+}
+
