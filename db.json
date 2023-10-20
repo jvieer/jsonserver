@@ -46,7 +46,26 @@
         "rol": "pasajero"
       }
      
+    ],
+    "viajes": [
+      {
+        "id": 1,
+        "conductor_id": 1, 
+        "pasajero_id": 2,  
+        "fecha": "2023-10-20T10:00:00", 
+        "origen": "Puente Alto",
+        "destino": "Cajón del Maipo",
+        "estado": "completado" 
+      },
+      {
+        "id": 2,
+        "conductor_id": 3,
+        "pasajero_id": 1,
+        "fecha": "2023-10-21T15:30:00",
+        "origen": "Lo Barnechea",
+        "destino": "La Pintana",
+        "estado": "pendiente"
+      }
     ]
-    
-}
+  }
 
