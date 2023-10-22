@@ -35,14 +35,14 @@
         "id": 1,
         "nombre": "Nombre del usuario",
         "email": "correo@conductor.com",
-        "contraseña": "contraseña_del_usuario",
+        "contrasena": "contraseña_del_usuario",
         "rol": "conductor"
       },
       {
         "id": 2,
         "nombre": "Nombre del usuario",
         "email": "correo@pasajero.com",
-        "contraseña": "contraseña_del_usuario",
+        "contrasena": "contraseña_del_usuario",
         "rol": "pasajero"
       }
      
