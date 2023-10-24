@@ -40,9 +40,9 @@
       },
       {
         "id": 2,
-        "nombre": "Nombre del usuario",
-        "email": "correo@pasajero.com",
-        "contrasena": "contraseña_del_usuario",
+        "nombre": "pasajero",
+        "email": "pasajero@gmail.com",
+        "contrasena": "1234",
         "rol": "pasajero"
       }
      
